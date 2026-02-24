@@ -1,3 +1,6 @@
+
+## Problem Setting
+
 This project implements:
 
 - Multi-asset portfolio allocation
@@ -9,8 +12,6 @@ This project implements:
 - Chronological train / validation / test split
 - Regret analysis vs BCRP benchmark
 - Sharpe ratio & Maximum Drawdown evaluation
-
-## Problem Setting
 
 At each timestep the agent:
 
